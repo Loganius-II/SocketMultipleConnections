@@ -7,11 +7,13 @@
   
 
 ## TODO:
-- Fix amount of connections detected
-- Correctly use `try`,`except` commands to avoid connection/disconnection errors
-- Troubleshoot storing of each user's names and info in the two lists
-- Fix the name duplacate detector
+- ~~Fix amount of connections detected~~
+- ~~Fix `try` and `except` commands to avoid errors~~
+- ~~Troubleshoot storing of each user's names and info in the two lists~~
+- ~~Fix the name duplacate detector~~
+- Fix banning to where it refuses connections of addresses in the `banned_clients_list`
 - Add more admin commands
+- **ADD MORE COMMANDS****
 
 ## What is to come:
 - Use pygame to create a graphical interface (GUI) to the project
