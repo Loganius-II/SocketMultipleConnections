@@ -13,7 +13,7 @@
 - ~~Fix the name duplacate detector~~
 - Fix banning to where it refuses connections of addresses in the `banned_clients_list`
 - Add more admin commands
-- **ADD MORE COMMANDS****
+- **ADD MORE COMMANDS**
 
 ## What is to come:
 - Use pygame to create a graphical interface (GUI) to the project
